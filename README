@@ -9,6 +9,8 @@ System compatibility:
 
 Assuming Ubuntu 18, XPlane 11 and ROS Melodic full desktop version are installed.
 
+Install nengo from "https://www.nengo.ai/nengo/getting-started.html"
+
 XPLANE SET UP
 Download from this repository the XPlaneConnect folder and paste it in the XPlane plugins route. If XPlane was purchased from Steam the route would be "/home/youruser/.local/share/Steam/steamapps/common/X-Plane 11/Resources/plugins".
 Download the My_custom_aircraft folder from this repo and paste it in XPlane/Aircraft route.
