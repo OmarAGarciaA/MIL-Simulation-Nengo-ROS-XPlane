@@ -28,7 +28,7 @@ $mkdir -p ~/xplane_ros_ws/src
 $cd ~/xplane_ros_ws
 $catkin init
 
-After that we will install our fork of ROSplane. Download the src folder from the following url "https://cinvestav365-my.sharepoint.com/:f:/g/personal/omar_garcia_cinvestav_mx/EgPVlCLWZzRJh9adac1V2fABYqtnc4FqSADwBfdWTE3kDQ?e=coI14Y" and paste it inside the xplane_ros_ws folder.
+After that we will install our fork of ROSplane. Download the src folder from the following url "https://drive.google.com/drive/folders/1m8YPpcH12rl5D6zXFXC3UtWwnFor34T3" and paste it inside the xplane_ros_ws folder.
 
 In a terminal type:
 	$cd rosflight/
